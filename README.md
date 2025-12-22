@@ -2,28 +2,28 @@
 
 A professional LinkedIn automation tool built with Go and the Rod library, featuring advanced anti-detection techniques for educational purposes.
 
-> **⚠️ DISCLAIMER**: This tool is for educational purposes only. Automated interaction with LinkedIn may violate their Terms of Service. Use at your own risk.
+> **DISCLAIMER**: This tool is for educational purposes only. Automated interaction with LinkedIn may violate their Terms of Service. Use at your own risk.
 
 ## Features
 
-### 🎭 Advanced Stealth Techniques
+### Advanced Stealth Techniques
 - **Bézier Curve Mouse Movements**: Natural, curved mouse paths with randomized control points
 - **Human-like Typing**: Variable keystroke delays with occasional typos and corrections
 - **Fingerprint Masking**: Removes automation indicators and randomizes browser fingerprints
 - **Random Delays**: Realistic pauses between actions
 
-### 🔐 Session Management
+### Session Management
 - Cookie persistence across sessions
 - Automatic session validation
 - 2FA detection and manual completion support
 
-### 💾 State Tracking
+### State Tracking
 - SQLite database for connection request history
 - Duplicate prevention
 - Statistics and analytics
 - Profile visit tracking
 
-### 🔍 Automation Features
+### Automation Features
 - People search with filters
 - Bulk connection requests
 - Personalized connection messages
@@ -203,7 +203,7 @@ SELECT * FROM connection_requests;
 
 ## Legal & Ethical Considerations
 
-⚠️ **Important**: This tool is provided for educational purposes only. Automated interaction with LinkedIn may:
+**Important**: This tool is provided for educational purposes only. Automated interaction with LinkedIn may:
 - Violate LinkedIn's Terms of Service
 - Result in account suspension or ban
 - Be considered unauthorized access in some jurisdictions
