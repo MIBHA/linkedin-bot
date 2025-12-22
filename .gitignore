@@ -1,0 +1,6 @@
+
+.env
+*.db
+session.json
+bin/
+
