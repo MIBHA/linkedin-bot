@@ -6,6 +6,7 @@ A professional LinkedIn automation tool built with Go and the Rod library, featu
 
 ## Demonstration Video
 [![Watch the Demonstration](https://github.com/MIBHA/linkedin-bot/blob/main/pkg/utils/assets/Video%20Demonstration.png?raw=true)](https://www.loom.com/share/e644e883e47b4f5ca18de6deeba4d851)
+#### Click on the above image
 
 ## Features
 
