@@ -5,8 +5,7 @@ A professional LinkedIn automation tool built with Go and the Rod library, featu
 > **DISCLAIMER**: This tool is for educational purposes only. Automated interaction with LinkedIn may violate their Terms of Service. Use at your own risk.
 
 ## Demonstration Video
-<video src="(https://www.loom.com/share/e644e883e47b4f5ca18de6deeba4d851)" controls="controls" style="max-width: 730px;">
-</video>
+[![Watch the Demonstration]([https://github.com/MIBHA/linkedin-bot/blob/main/pkg/utils/assets/Video Demonstration.png)?raw=true)](https://www.loom.com/share/e644e883e47b4f5ca18de6deeba4d851)
 
 ## Features
 
