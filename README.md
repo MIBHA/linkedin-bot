@@ -5,6 +5,8 @@ A professional LinkedIn automation tool built with Go and the Rod library, featu
 > **DISCLAIMER**: This tool is for educational purposes only. Automated interaction with LinkedIn may violate their Terms of Service. Use at your own risk.
 
 ## Demonstration Video
+<video src="your_video_link_here.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Features
 
