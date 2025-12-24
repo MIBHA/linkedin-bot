@@ -208,9 +208,9 @@ SELECT * FROM connection_requests;
 ## Legal & Ethical Considerations
 
 **Important**: This tool is provided for educational purposes only. Automated interaction with LinkedIn may:
-- Violate LinkedIn's Terms of Service
-- Result in account suspension or ban
-- Be considered unauthorized access in some jurisdictions
+- Violate LinkedIn's Terms of Service.
+- Result in account suspension or ban.
+- Be considered unauthorized access in some jurisdictions.
 
 **Use responsibly and at your own risk.**
 
